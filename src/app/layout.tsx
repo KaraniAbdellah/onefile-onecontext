@@ -280,8 +280,8 @@ export default function RootLayout({
           />
           <script
             defer
-            src="https://cloud.umami.is/script.js"
-            data-website-id="9ea2fab0-bc2c-4b56-987d-f3c1ddc3267c"
+            src="https://analytics.wahibabkari.com/script.js"
+            data-website-id="cc76366d-5df7-467e-84b8-5b8e8e069c2d"
           />
         </head>
         <body className={`${spaceGrotesk.className} ${inter.className} bg-background`}>
